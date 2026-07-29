@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "menele.aternos.me",
+    "ip": "quillback.aternos.host",
     "port": 16739,
     "version": "",
     "try-creative": false
