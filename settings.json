@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "menele.aternos.me:16739",
+    "ip": "menele.aternos.me",
     "port": 16739,
     "version": "26.2",
     "try-creative": false
