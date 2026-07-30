@@ -1,14 +1,14 @@
 {
-  "name": "Zenek",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Zenek",
+    "username": "zenek",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "menele.aternos.me",
     "port": 16739,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -32,14 +32,14 @@
       "repeat-delay": 120,
       "messages": [
         "Lubie jednożce",
-        "lena i magda to pieski",
+        "ksawery i fabian to pieski",
         "Lubie w nosek"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 10000,
-    "max-reconnect-delay":  10000,
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
